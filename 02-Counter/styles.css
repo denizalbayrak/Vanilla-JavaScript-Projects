@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(234, 230, 234);
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+main {
+  min-height: calc(
+    100vh - 3rem
+  ); /*  Sayfa boyunun tamamını kapsar, ama menü yüksekliği kadar kısa olur (3rem çıkarılır).*/
+  display: flex; /* içerik ortalansın diye*/
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background: transparent;
+  border: 2px solid black;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#value {
+  margin: 2rem;
+  font-size: 5rem;
+}
+.counter h1 {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 5px;
+  background-color: rgb(255, 0, 153);
+}
