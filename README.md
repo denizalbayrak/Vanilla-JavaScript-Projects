@@ -1,5 +1,5 @@
 🧠 JavaScript Mini Projects – My Learning Journey
-This repository contains my own implementations of several @john-smilga's JavaScript basic projects. I'm following his [JavaScript Basic Projects by john-smilga](https://github.com/john-smilga/javascript-basic-projects) as a learning path, but I make improvements, updates, or redesigns wherever I see the opportunity to challenge myself or try something new.
+This repository contains my own implementations of several John Smilga's JavaScript basic projects. I'm following his [JavaScript Basic Projects by john-smilga](https://github.com/john-smilga/javascript-basic-projects) as a learning path, but I make improvements, updates, or redesigns wherever I see the opportunity to challenge myself or try something new.
 
 💡 Why I’m Doing This
 I'm using these projects to:
